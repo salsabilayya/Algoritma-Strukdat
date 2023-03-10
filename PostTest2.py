@@ -19,3 +19,5 @@ if hasil2 == -1:
     print(f'{cari} telah ditemukan pada indeks {hasil2}')
 else:
     print(f'{cari} telah ditemukan pada indeks {hasil2}')
+
+https://laufey-area.notion.site/POST-TEST-2-Searching-fe9720710aaa4f5f8ee2704cb2714e72
